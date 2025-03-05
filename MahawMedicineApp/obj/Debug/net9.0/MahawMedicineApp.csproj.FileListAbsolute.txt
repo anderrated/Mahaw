@@ -9,8 +9,6 @@ C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\MahawMedicineApp.pysxmxd3g9.pdb
-C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\MahawMedicineApp.gwhuw79yfh.wasm
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.esv38zo127.wasm
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.aq1ir8e8pl.wasm
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.cwj0bpb71v.wasm
@@ -229,7 +227,6 @@ C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.2k5v83m7ze.wasm.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\System.Net.Requests.4hk8tos0gu.wasm.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\System.Formats.Tar.1zsubplx4d.wasm.gz
-C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\MahawMedicineApp.gwhuw79yfh.wasm.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\System.Formats.Asn1.fd28xzv6af.wasm.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.og5ud5mohu.wasm.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\System.Text.Encoding.CodePages.abukrso2s5.wasm.gz
@@ -351,7 +348,6 @@ C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\System.Transactions.Local.2c9m9phvrm.wasm.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\System.Threading.ThreadPool.6q4r5fv3jz.wasm.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.JSInterop.0h2vlrw1wc.wasm.gz
-C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\MahawMedicineApp.pysxmxd3g9.pdb.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\System.Private.Uri.zzcx82pbz8.wasm.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\System.Xml.guke5f9yfb.wasm.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.InteropServices.q39lm5lg7m.wasm.gz
@@ -814,7 +810,6 @@ C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\scopedcss\bundle\M
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\scopedcss\projectbundle\MahawMedicineApp.bundle.scp.css
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\blazor.build.boot-extension.json
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\blazor.boot.json
-C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\1cpbhp9qil-armqmlfgqy.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\ye79ilphut-oq2ns8azj9.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\cft37imicj-bqjiyaj88i.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\1hich7xfhr-c2jlpeoesf.gz
@@ -1064,9 +1059,6 @@ C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\nww7ovu
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\95vcj4uftg-tjcz0u77k5.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\xmmy3ghhce-tptq2av103.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\znvt3339q4-lfu7j35m59.gz
-C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\4qe5ybgxmd-gwhuw79yfh.gz
-C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\q52ueqrxa5-pysxmxd3g9.gz
-C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\1vxw7cu9kb-cfov6025vn.gz
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1081,3 +1073,12 @@ C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\MahawMedicineApp.d
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\refint\MahawMedicineApp.dll
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\MahawMedicineApp.pdb
 C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\ref\MahawMedicineApp.dll
+C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\MahawMedicineApp.pqxp5xi8l1.pdb
+C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\MahawMedicineApp.5pdh7qoikk.wasm
+C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\MahawMedicineApp.5pdh7qoikk.wasm.gz
+C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\bin\Debug\net9.0\wwwroot\_framework\MahawMedicineApp.pqxp5xi8l1.pdb.gz
+C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\MahawMedicineApp.sourcelink.json
+C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\4qe5ybgxmd-5pdh7qoikk.gz
+C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\q52ueqrxa5-pqxp5xi8l1.gz
+C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\1vxw7cu9kb-3ki053f74h.gz
+C:\Users\ASUS\Desktop\Mahaw\MahawMedicineApp\obj\Debug\net9.0\compressed\1cpbhp9qil-znpwfg37li.gz
