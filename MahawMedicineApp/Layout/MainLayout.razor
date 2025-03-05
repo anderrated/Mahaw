@@ -1,0 +1,40 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <div class="sidebar">
+        <nav>
+            <div class="logo">
+                <img src="images/mahaw-logo.png" alt="MAHAW Logo" />
+            </div>
+            
+            <NavLink href="/" class="nav-item">
+                <img src="icons/home.svg" alt="Home" />
+                Home
+            </NavLink>
+            
+            <NavLink href="/medication-registry" class="nav-item">
+                <img src="icons/registry.svg" alt="Medication Registry" />
+                Medication Registry
+            </NavLink>
+            
+            <NavLink href="/reminder" class="nav-item">
+                <img src="icons/reminder.svg" alt="Reminder" />
+                Reminder
+            </NavLink>
+            
+            <NavLink href="/interaction-checker" class="nav-item">
+                <img src="icons/checker.svg" alt="Interaction Checker" />
+                Interaction Checker
+            </NavLink>
+            
+            <NavLink href="/health-tips" class="nav-item">
+                <img src="icons/health-tips.svg" alt="Health Tips" />
+                Health Tips and Articles
+            </NavLink>
+        </nav>
+    </div>
+    
+    <main class="main-content">
+        @Body
+    </main>
+</div>
