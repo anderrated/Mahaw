@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #4CAF50;
-    --secondary-color: #2196F3;
+    --primary-color: #ebd078;
+    --secondary-color: #7abf8b;
     --background-color: #f5edd5;
 }
 
@@ -12,7 +12,7 @@ body {
 }
 
 .sidebar {
-    background-color: --background-color;
+    background-color: var(--primary-color);
     width: 250px;
     height: 100vh;
     position: fixed;
