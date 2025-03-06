@@ -1,0 +1,50 @@
+@namespace MahawMedicineApp.Shared
+
+@code {
+    // List of drugs (Example Data)
+    private Dictionary<char, List<string>> DrugDictionary = new()
+    {
+        { 'A', new List<string> { "Aspirin", "Amoxicillin", "Atorvastatin" } },
+        { 'B', new List<string> { "Benzocaine", "Baclofen" } },
+        { 'C', new List<string> { "Ciprofloxacin", "Cetirizine" } },
+        { 'D', new List<string> { "Diazepam", "Dexamethasone" } },
+        { 'E', new List<string> { "Epinephrine", "Erythromycin" } },
+        { 'F', new List<string> { "Fluoxetine", "Fentanyl" } },
+        // Add more drugs as needed...
+    };
+
+    private char? selectedLetter = null;
+    private List<string>? filteredDrugs = null;
+
+    // Function to handle letter click
+    private void SelectLetter(char letter)
+    {
+        selectedLetter = letter;
+        filteredDrugs = DrugDictionary.ContainsKey(letter) ? DrugDictionary[letter] : new List<string>();
+    }
+}
+
+<div class="grid">
+    @foreach (char letter in Enumerable.Range('A', 26).Select(x => (char)x))
+    {
+        <button @onclick="() => SelectLetter(letter)" class="letter-btn">@letter</button>
+    }
+</div>
+
+@if (selectedLetter.HasValue)
+{
+    <h4>Drugs starting with "@selectedLetter"</h4>
+    <ul>
+        @if (filteredDrugs?.Any() == true)
+        {
+            @foreach (var drug in filteredDrugs)
+            {
+                <li>@drug</li>
+            }
+        }
+        else
+        {
+            <li>No drugs found for this letter.</li>
+        }
+    </ul>
+}

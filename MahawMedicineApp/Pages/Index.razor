@@ -1,42 +1,31 @@
 @page "/"
+@using MahawMedicineApp.Shared
 
 <PageTitle>MAHAW - Stay Informed. Stay Healthy.</PageTitle>
 
 <div class="hero-section">
-    <div>
-        <h1>STAY INFORMED.</h1>
-        <h1>STAY HEALTHY.</h1>
-        <p>Find accurate information on thousands of medicines, including usage, side effects, and precautions.</p>
-        
+    <div class="heading-container">
         <div class="search-container">
-            <input type="text" placeholder="Search for medicines..." />
+            <input type="text" placeholder="Search for medicines..." class="search-input" />
             <button>Search</button>
         </div>
+
+        <div class="user-log">
+            <button>Register</button>
+            <button>Sign In</button>
+        </div>
     </div>
-    
-    <div class="medicine-illustrations">
-        <!-- Add cute medicine illustrations here -->
-        @foreach (var medicine in MedicineItems)
-        {
-            <div class="medicine-item">
-                <img src="@medicine.ImageUrl" alt="@medicine.Name" />
-                <p>@medicine.Name</p>
-            </div>
-        }
-    </div>
+    <div class="mahaw-line">
+        <div class="mahaw-text">
+            <h1>STAY INFORMED.</h1>
+            <h1>STAY HEALTHY.</h1>
+            <p>Find accurate information on thousands of medicines, including usage, side effects, and precautions.</p>
+        </div>
+        
+        <div class="drug-search">
+            <h3>A-Z Drug Search</h3>
+            <AZSearch />
+        </div>
+    </div> 
+
 </div>
-
-@code {
-    private List<MedicineItem> MedicineItems = new List<MedicineItem>
-    {
-        new MedicineItem { Name = "Lemon", ImageUrl = "images/lemon-medicine.png" },
-        new MedicineItem { Name = "Syrup", ImageUrl = "images/syrup-medicine.png" },
-        // Add more medicine items
-    };
-
-    public class MedicineItem
-    {
-        public string Name { get; set; }
-        public string ImageUrl { get; set; }
-    }
-}

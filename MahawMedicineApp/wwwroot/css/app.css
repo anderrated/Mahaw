@@ -1,6 +1,7 @@
 :root {
     --primary-color: #ebd078;
     --secondary-color: #7abf8b;
+    --ternary-color: #d1ecbf;
     --background-color: #f5edd5;
 }
 
@@ -21,6 +22,11 @@ body {
     box-shadow: 2px 0 5px rgba(0,0,0,0.1);
 }
 
+.page .sidebar .nav-item i{
+    color: rgb(255, 251, 245);
+    padding: 10px;
+}
+
 .main-content {
     margin-left: 250px;
     padding: 20px;
@@ -36,7 +42,7 @@ body {
 }
 
 .nav-item:hover {
-    background-color: #f0f0f0;
+    background-color: var(--ternary-color);
 }
 
 .nav-item img {
@@ -46,29 +52,70 @@ body {
 }
 
 .hero-section {
-    display: flex;
     align-items: center;
-    justify-content: space-between;
     background-color: white;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
-.medicine-illustrations {
+.hero-section .heading-container {
+    display: flex;    
+}
+
+.hero-section .heading-container .search-container {
+    flex-grow: 8;
+}
+
+.hero-section .heading-container .search-container .search-input {
+    width: 80%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+.hero-section .mahaw-line {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    padding: 10%;
+    justify-content: space-between;
+}
+
+.hero-section .mahaw-line .mahaw-text h1 {
+    font-family: 'League Spartan', sans-serif;
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+/* A-Z Search*/
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
     gap: 10px;
-    margin-top: 20px;
+    justify-content: center;
+    max-width: 400px;
+    margin: auto;
+    padding: 10px;
 }
 
-.medicine-item {
+.letter-btn {
+    background-color: #d4af89;
+    border: none;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.letter-btn:hover {
+    background-color: #b88c65;
+}
+
+h3, h4 {
     text-align: center;
-    position: relative;
 }
 
-.medicine-item img {
-    max-width: 100px;
-    height: auto;
-}
+
+
