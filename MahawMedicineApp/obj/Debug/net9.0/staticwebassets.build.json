@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wKH1fuCUd8OfiP0V/YUbO8032bJcHdxGMNI6g4VWiTQ=",
+  "Hash": "v7gQfX6i5Sh0unBP+4k2M3xYMxMssPcXOj7WHzNT4Mo=",
   "Source": "MahawMedicineApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "ffe6xk08xk",
-      "Integrity": "deD1iucNsT+krDr3ompuZ7aHimBjvd3ZBg9Sc56HiIs=",
+      "Fingerprint": "k9zlzm85ae",
+      "Integrity": "OH8T7eG/X6Hx2xtTcBckGwL0DBdFohS/TTmRwDlRfWY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -262,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "xh5hml69kt",
-      "Integrity": "69+9HVsT0+jyBUimBBz61umkEx+0y8MdxmPV9YUGA6Q=",
+      "Fingerprint": "vwmaa89ksr",
+      "Integrity": "f4xJGsDO9NkDawaW7DD3R82Mu26uOwUydMyxNII/bxU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\MahawMedicineApp.pdb"
@@ -283,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "9h3xpj4tp2",
-      "Integrity": "Iwvz9XPOvwT0y2JWWWmgG9GnNVHBkdI42iRq7o4c/Os=",
+      "Fingerprint": "csna1g9aqk",
+      "Integrity": "FHhkZSgsyD6X/EKzrMdMqE8Ej/+nGCsk1YZhHFIUTUA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\webcil\\MahawMedicineApp.wasm"
@@ -4595,7 +4595,7 @@
       "OriginalItemSpec": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Collections.wasm"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\1vxw7cu9kb-ffe6xk08xk.gz",
+      "Identity": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\1vxw7cu9kb-k9zlzm85ae.gz",
       "SourceId": "MahawMedicineApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\",
@@ -4609,8 +4609,8 @@
       "RelatedAsset": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "b4444pvbzr",
-      "Integrity": "JdpN5Rxwf2i6HLEE199W2XpQCYvLxVy+em6mf9R2tzw=",
+      "Fingerprint": "whvmo96v94",
+      "Integrity": "9EQUhYSLbGZ/eQFr/RCaroj9SC4XFneiAbG5uiwS0q0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -4994,12 +4994,12 @@
       "OriginalItemSpec": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Formats.Tar.wasm"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\4qe5ybgxmd-9h3xpj4tp2.gz",
+      "Identity": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\4qe5ybgxmd-csna1g9aqk.gz",
       "SourceId": "MahawMedicineApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/MahawMedicineApp#[.{fingerprint=9h3xpj4tp2}]!.wasm.gz",
+      "RelativePath": "_framework/MahawMedicineApp#[.{fingerprint=csna1g9aqk}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5008,8 +5008,8 @@
       "RelatedAsset": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MahawMedicineApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cvwycheo6u",
-      "Integrity": "GNXnFkv8nRD6vjG+yOxO2KhtF6UDUKKQzqar3O1TbGo=",
+      "Fingerprint": "qwu1wff76a",
+      "Integrity": "RkGXhnl1CZu26HBe7fUcSkVLJFOGYgUDZXtUQRaOMFE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MahawMedicineApp.wasm"
@@ -8165,12 +8165,12 @@
       "OriginalItemSpec": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.JSInterop.wasm"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\q52ueqrxa5-xh5hml69kt.gz",
+      "Identity": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\q52ueqrxa5-vwmaa89ksr.gz",
       "SourceId": "MahawMedicineApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/MahawMedicineApp#[.{fingerprint=xh5hml69kt}]!.pdb.gz",
+      "RelativePath": "_framework/MahawMedicineApp#[.{fingerprint=vwmaa89ksr}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8179,8 +8179,8 @@
       "RelatedAsset": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MahawMedicineApp.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vhk5zw0vnw",
-      "Integrity": "AzqqkoP0LHMXHIJgS48QKqKVSwYBF+ujNxW3gmhsjbc=",
+      "Fingerprint": "jouk19qqxo",
+      "Integrity": "U12j6a4vGo09TSlBtDvy51LL3tPnnqWSkc9+QushoZQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MahawMedicineApp.pdb"
@@ -10705,7 +10705,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"deD1iucNsT+krDr3ompuZ7aHimBjvd3ZBg9Sc56HiIs=\""
+          "Value": "\"OH8T7eG/X6Hx2xtTcBckGwL0DBdFohS/TTmRwDlRfWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 10:53:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OH8T7eG/X6Hx2xtTcBckGwL0DBdFohS/TTmRwDlRfWY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\1vxw7cu9kb-k9zlzm85ae.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000081221572"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12311"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9EQUhYSLbGZ/eQFr/RCaroj9SC4XFneiAbG5uiwS0q0=\""
         },
         {
           "Name": "Last-Modified",
@@ -10714,45 +10753,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-deD1iucNsT+krDr3ompuZ7aHimBjvd3ZBg9Sc56HiIs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\1vxw7cu9kb-ffe6xk08xk.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081228170"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12310"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JdpN5Rxwf2i6HLEE199W2XpQCYvLxVy+em6mf9R2tzw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 11:45:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"deD1iucNsT+krDr3ompuZ7aHimBjvd3ZBg9Sc56HiIs=\""
+          "Value": "W/\"OH8T7eG/X6Hx2xtTcBckGwL0DBdFohS/TTmRwDlRfWY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-deD1iucNsT+krDr3ompuZ7aHimBjvd3ZBg9Sc56HiIs="
+          "Value": "sha256-OH8T7eG/X6Hx2xtTcBckGwL0DBdFohS/TTmRwDlRfWY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\1vxw7cu9kb-ffe6xk08xk.gz",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\1vxw7cu9kb-k9zlzm85ae.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12310"
+          "Value": "12311"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JdpN5Rxwf2i6HLEE199W2XpQCYvLxVy+em6mf9R2tzw=\""
+          "Value": "\"9EQUhYSLbGZ/eQFr/RCaroj9SC4XFneiAbG5uiwS0q0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 11:45:55 GMT"
+          "Value": "Thu, 06 Mar 2025 12:51:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JdpN5Rxwf2i6HLEE199W2XpQCYvLxVy+em6mf9R2tzw="
+          "Value": "sha256-9EQUhYSLbGZ/eQFr/RCaroj9SC4XFneiAbG5uiwS0q0="
         }
       ]
     },
@@ -13643,7 +13643,7 @@
       ]
     },
     {
-      "Route": "_framework/MahawMedicineApp.9h3xpj4tp2.wasm",
+      "Route": "_framework/MahawMedicineApp.csna1g9aqk.wasm",
       "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MahawMedicineApp.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13661,11 +13661,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Iwvz9XPOvwT0y2JWWWmgG9GnNVHBkdI42iRq7o4c/Os=\""
+          "Value": "\"FHhkZSgsyD6X/EKzrMdMqE8Ej/+nGCsk1YZhHFIUTUA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 12:51:01 GMT"
+          "Value": "Thu, 13 Mar 2025 10:53:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13675,7 +13675,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9h3xpj4tp2"
+          "Value": "csna1g9aqk"
         },
         {
           "Name": "label",
@@ -13683,18 +13683,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Iwvz9XPOvwT0y2JWWWmgG9GnNVHBkdI42iRq7o4c/Os="
+          "Value": "sha256-FHhkZSgsyD6X/EKzrMdMqE8Ej/+nGCsk1YZhHFIUTUA="
         }
       ]
     },
     {
-      "Route": "_framework/MahawMedicineApp.9h3xpj4tp2.wasm",
-      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\4qe5ybgxmd-9h3xpj4tp2.gz",
+      "Route": "_framework/MahawMedicineApp.csna1g9aqk.wasm",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\4qe5ybgxmd-csna1g9aqk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000124953143"
+          "Quality": "0.000124812781"
         }
       ],
       "ResponseHeaders": [
@@ -13704,15 +13704,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8002"
+          "Value": "8011"
         },
         {
           "Name": "ETag",
-          "Value": "\"GNXnFkv8nRD6vjG+yOxO2KhtF6UDUKKQzqar3O1TbGo=\""
+          "Value": "\"RkGXhnl1CZu26HBe7fUcSkVLJFOGYgUDZXtUQRaOMFE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 12:51:02 GMT"
+          "Value": "Thu, 13 Mar 2025 10:53:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13732,13 +13732,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Iwvz9XPOvwT0y2JWWWmgG9GnNVHBkdI42iRq7o4c/Os=\""
+          "Value": "W/\"FHhkZSgsyD6X/EKzrMdMqE8Ej/+nGCsk1YZhHFIUTUA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9h3xpj4tp2"
+          "Value": "csna1g9aqk"
         },
         {
           "Name": "label",
@@ -13746,13 +13746,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Iwvz9XPOvwT0y2JWWWmgG9GnNVHBkdI42iRq7o4c/Os="
+          "Value": "sha256-FHhkZSgsyD6X/EKzrMdMqE8Ej/+nGCsk1YZhHFIUTUA="
         }
       ]
     },
     {
-      "Route": "_framework/MahawMedicineApp.9h3xpj4tp2.wasm.gz",
-      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\4qe5ybgxmd-9h3xpj4tp2.gz",
+      "Route": "_framework/MahawMedicineApp.csna1g9aqk.wasm.gz",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\4qe5ybgxmd-csna1g9aqk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13761,7 +13761,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8002"
+          "Value": "8011"
         },
         {
           "Name": "Content-Type",
@@ -13769,11 +13769,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GNXnFkv8nRD6vjG+yOxO2KhtF6UDUKKQzqar3O1TbGo=\""
+          "Value": "\"RkGXhnl1CZu26HBe7fUcSkVLJFOGYgUDZXtUQRaOMFE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 12:51:02 GMT"
+          "Value": "Thu, 13 Mar 2025 10:53:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13791,7 +13791,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9h3xpj4tp2"
+          "Value": "csna1g9aqk"
         },
         {
           "Name": "label",
@@ -13799,7 +13799,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GNXnFkv8nRD6vjG+yOxO2KhtF6UDUKKQzqar3O1TbGo="
+          "Value": "sha256-RkGXhnl1CZu26HBe7fUcSkVLJFOGYgUDZXtUQRaOMFE="
         }
       ]
     },
@@ -13822,11 +13822,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"69+9HVsT0+jyBUimBBz61umkEx+0y8MdxmPV9YUGA6Q=\""
+          "Value": "\"f4xJGsDO9NkDawaW7DD3R82Mu26uOwUydMyxNII/bxU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 12:51:01 GMT"
+          "Value": "Thu, 13 Mar 2025 10:53:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13836,18 +13836,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-69+9HVsT0+jyBUimBBz61umkEx+0y8MdxmPV9YUGA6Q="
+          "Value": "sha256-f4xJGsDO9NkDawaW7DD3R82Mu26uOwUydMyxNII/bxU="
         }
       ]
     },
     {
       "Route": "_framework/MahawMedicineApp.pdb",
-      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\q52ueqrxa5-xh5hml69kt.gz",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\q52ueqrxa5-vwmaa89ksr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000060288177"
+          "Quality": "0.000060284543"
         }
       ],
       "ResponseHeaders": [
@@ -13857,15 +13857,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16586"
+          "Value": "16587"
         },
         {
           "Name": "ETag",
-          "Value": "\"AzqqkoP0LHMXHIJgS48QKqKVSwYBF+ujNxW3gmhsjbc=\""
+          "Value": "\"U12j6a4vGo09TSlBtDvy51LL3tPnnqWSkc9+QushoZQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 12:51:02 GMT"
+          "Value": "Thu, 13 Mar 2025 10:53:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13885,19 +13885,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"69+9HVsT0+jyBUimBBz61umkEx+0y8MdxmPV9YUGA6Q=\""
+          "Value": "W/\"f4xJGsDO9NkDawaW7DD3R82Mu26uOwUydMyxNII/bxU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-69+9HVsT0+jyBUimBBz61umkEx+0y8MdxmPV9YUGA6Q="
+          "Value": "sha256-f4xJGsDO9NkDawaW7DD3R82Mu26uOwUydMyxNII/bxU="
         }
       ]
     },
     {
       "Route": "_framework/MahawMedicineApp.pdb.gz",
-      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\q52ueqrxa5-xh5hml69kt.gz",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\q52ueqrxa5-vwmaa89ksr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13906,7 +13906,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16586"
+          "Value": "16587"
         },
         {
           "Name": "Content-Type",
@@ -13914,11 +13914,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AzqqkoP0LHMXHIJgS48QKqKVSwYBF+ujNxW3gmhsjbc=\""
+          "Value": "\"U12j6a4vGo09TSlBtDvy51LL3tPnnqWSkc9+QushoZQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 12:51:02 GMT"
+          "Value": "Thu, 13 Mar 2025 10:53:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13936,7 +13936,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AzqqkoP0LHMXHIJgS48QKqKVSwYBF+ujNxW3gmhsjbc="
+          "Value": "sha256-U12j6a4vGo09TSlBtDvy51LL3tPnnqWSkc9+QushoZQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MahawMedicineApp.vwmaa89ksr.pdb",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MahawMedicineApp.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22860"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f4xJGsDO9NkDawaW7DD3R82Mu26uOwUydMyxNII/bxU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 10:53:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vwmaa89ksr"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MahawMedicineApp.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f4xJGsDO9NkDawaW7DD3R82Mu26uOwUydMyxNII/bxU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MahawMedicineApp.vwmaa89ksr.pdb",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\q52ueqrxa5-vwmaa89ksr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000060284543"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16587"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U12j6a4vGo09TSlBtDvy51LL3tPnnqWSkc9+QushoZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 10:53:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"f4xJGsDO9NkDawaW7DD3R82Mu26uOwUydMyxNII/bxU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vwmaa89ksr"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MahawMedicineApp.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f4xJGsDO9NkDawaW7DD3R82Mu26uOwUydMyxNII/bxU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MahawMedicineApp.vwmaa89ksr.pdb.gz",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\q52ueqrxa5-vwmaa89ksr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U12j6a4vGo09TSlBtDvy51LL3tPnnqWSkc9+QushoZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 10:53:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vwmaa89ksr"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MahawMedicineApp.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U12j6a4vGo09TSlBtDvy51LL3tPnnqWSkc9+QushoZQ="
         }
       ]
     },
@@ -13959,11 +14120,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Iwvz9XPOvwT0y2JWWWmgG9GnNVHBkdI42iRq7o4c/Os=\""
+          "Value": "\"FHhkZSgsyD6X/EKzrMdMqE8Ej/+nGCsk1YZhHFIUTUA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 12:51:01 GMT"
+          "Value": "Thu, 13 Mar 2025 10:53:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13973,18 +14134,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Iwvz9XPOvwT0y2JWWWmgG9GnNVHBkdI42iRq7o4c/Os="
+          "Value": "sha256-FHhkZSgsyD6X/EKzrMdMqE8Ej/+nGCsk1YZhHFIUTUA="
         }
       ]
     },
     {
       "Route": "_framework/MahawMedicineApp.wasm",
-      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\4qe5ybgxmd-9h3xpj4tp2.gz",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\4qe5ybgxmd-csna1g9aqk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000124953143"
+          "Quality": "0.000124812781"
         }
       ],
       "ResponseHeaders": [
@@ -13994,15 +14155,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8002"
+          "Value": "8011"
         },
         {
           "Name": "ETag",
-          "Value": "\"GNXnFkv8nRD6vjG+yOxO2KhtF6UDUKKQzqar3O1TbGo=\""
+          "Value": "\"RkGXhnl1CZu26HBe7fUcSkVLJFOGYgUDZXtUQRaOMFE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 12:51:02 GMT"
+          "Value": "Thu, 13 Mar 2025 10:53:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14022,19 +14183,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Iwvz9XPOvwT0y2JWWWmgG9GnNVHBkdI42iRq7o4c/Os=\""
+          "Value": "W/\"FHhkZSgsyD6X/EKzrMdMqE8Ej/+nGCsk1YZhHFIUTUA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Iwvz9XPOvwT0y2JWWWmgG9GnNVHBkdI42iRq7o4c/Os="
+          "Value": "sha256-FHhkZSgsyD6X/EKzrMdMqE8Ej/+nGCsk1YZhHFIUTUA="
         }
       ]
     },
     {
       "Route": "_framework/MahawMedicineApp.wasm.gz",
-      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\4qe5ybgxmd-9h3xpj4tp2.gz",
+      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\4qe5ybgxmd-csna1g9aqk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14043,7 +14204,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8002"
+          "Value": "8011"
         },
         {
           "Name": "Content-Type",
@@ -14051,11 +14212,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GNXnFkv8nRD6vjG+yOxO2KhtF6UDUKKQzqar3O1TbGo=\""
+          "Value": "\"RkGXhnl1CZu26HBe7fUcSkVLJFOGYgUDZXtUQRaOMFE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 12:51:02 GMT"
+          "Value": "Thu, 13 Mar 2025 10:53:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14073,168 +14234,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GNXnFkv8nRD6vjG+yOxO2KhtF6UDUKKQzqar3O1TbGo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MahawMedicineApp.xh5hml69kt.pdb",
-      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MahawMedicineApp.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22860"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"69+9HVsT0+jyBUimBBz61umkEx+0y8MdxmPV9YUGA6Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 12:51:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xh5hml69kt"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MahawMedicineApp.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-69+9HVsT0+jyBUimBBz61umkEx+0y8MdxmPV9YUGA6Q="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MahawMedicineApp.xh5hml69kt.pdb",
-      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\q52ueqrxa5-xh5hml69kt.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000060288177"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16586"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AzqqkoP0LHMXHIJgS48QKqKVSwYBF+ujNxW3gmhsjbc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 12:51:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"69+9HVsT0+jyBUimBBz61umkEx+0y8MdxmPV9YUGA6Q=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xh5hml69kt"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MahawMedicineApp.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-69+9HVsT0+jyBUimBBz61umkEx+0y8MdxmPV9YUGA6Q="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MahawMedicineApp.xh5hml69kt.pdb.gz",
-      "AssetFile": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\compressed\\q52ueqrxa5-xh5hml69kt.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16586"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AzqqkoP0LHMXHIJgS48QKqKVSwYBF+ujNxW3gmhsjbc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 12:51:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xh5hml69kt"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MahawMedicineApp.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AzqqkoP0LHMXHIJgS48QKqKVSwYBF+ujNxW3gmhsjbc="
+          "Value": "sha256-RkGXhnl1CZu26HBe7fUcSkVLJFOGYgUDZXtUQRaOMFE="
         }
       ]
     },
