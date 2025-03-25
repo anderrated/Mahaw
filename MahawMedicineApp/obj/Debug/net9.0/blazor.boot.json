@@ -1,8 +1,9 @@
 {
   "mainAssemblyName": "MahawMedicineApp",
   "resources": {
-    "hash": "sha256-/FySLatabXut43bfrrB5fbESYNYamQUXrM7drI4Dg+U=",
+    "hash": "sha256-+mhG57xEYUH9fk+1haLc1jso61bE8kwuV79Acm6Lxx0=",
     "fingerprinting": {
+      "FluentValidation.fvee6lf8f0.wasm": "FluentValidation.wasm",
       "Microsoft.AspNetCore.Authorization.esv38zo127.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.cwj0bpb71v.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.aq1ir8e8pl.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -10,19 +11,19 @@
       "Microsoft.AspNetCore.Components.WebAssembly.b0sosqcdpj.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "Microsoft.AspNetCore.Metadata.oekk764ms4.wasm": "Microsoft.AspNetCore.Metadata.wasm",
       "Microsoft.Extensions.Configuration.jnmou9j50n.wasm": "Microsoft.Extensions.Configuration.wasm",
-      "Microsoft.Extensions.Configuration.Abstractions.kw6zdn2hre.wasm": "Microsoft.Extensions.Configuration.Abstractions.wasm",
+      "Microsoft.Extensions.Configuration.Abstractions.4a55sodx0u.wasm": "Microsoft.Extensions.Configuration.Abstractions.wasm",
       "Microsoft.Extensions.Configuration.Binder.2k9gr7miv3.wasm": "Microsoft.Extensions.Configuration.Binder.wasm",
       "Microsoft.Extensions.Configuration.FileExtensions.w11q1ch9mx.wasm": "Microsoft.Extensions.Configuration.FileExtensions.wasm",
       "Microsoft.Extensions.Configuration.Json.l87hutdh9l.wasm": "Microsoft.Extensions.Configuration.Json.wasm",
-      "Microsoft.Extensions.DependencyInjection.b4d8qm7pau.wasm": "Microsoft.Extensions.DependencyInjection.wasm",
-      "Microsoft.Extensions.DependencyInjection.Abstractions.auqecwqpl6.wasm": "Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
+      "Microsoft.Extensions.DependencyInjection.w6rb25gv28.wasm": "Microsoft.Extensions.DependencyInjection.wasm",
+      "Microsoft.Extensions.DependencyInjection.Abstractions.uyeezc5cxb.wasm": "Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Abstractions.1308i1c1g1.wasm": "Microsoft.Extensions.FileProviders.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Physical.2k5v83m7ze.wasm": "Microsoft.Extensions.FileProviders.Physical.wasm",
       "Microsoft.Extensions.FileSystemGlobbing.og5ud5mohu.wasm": "Microsoft.Extensions.FileSystemGlobbing.wasm",
-      "Microsoft.Extensions.Logging.96umgmlbmk.wasm": "Microsoft.Extensions.Logging.wasm",
-      "Microsoft.Extensions.Logging.Abstractions.l8y69abh7s.wasm": "Microsoft.Extensions.Logging.Abstractions.wasm",
-      "Microsoft.Extensions.Options.83qdyvwc4v.wasm": "Microsoft.Extensions.Options.wasm",
-      "Microsoft.Extensions.Primitives.j8wpr8jzql.wasm": "Microsoft.Extensions.Primitives.wasm",
+      "Microsoft.Extensions.Logging.95bgqrnv72.wasm": "Microsoft.Extensions.Logging.wasm",
+      "Microsoft.Extensions.Logging.Abstractions.r95vt1inlr.wasm": "Microsoft.Extensions.Logging.Abstractions.wasm",
+      "Microsoft.Extensions.Options.i5at4ga9io.wasm": "Microsoft.Extensions.Options.wasm",
+      "Microsoft.Extensions.Primitives.bq6k0v7oj5.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.0h2vlrw1wc.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.vzj7d1zf5j.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
       "Microsoft.CSharp.qzjvm9hz38.wasm": "Microsoft.CSharp.wasm",
@@ -201,8 +202,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "MahawMedicineApp.hruo311nyz.wasm": "MahawMedicineApp.wasm",
-      "MahawMedicineApp.iz7t0ywhyu.pdb": "MahawMedicineApp.pdb"
+      "MahawMedicineApp.kvbdgndhac.wasm": "MahawMedicineApp.wasm",
+      "MahawMedicineApp.fcar7owwru.pdb": "MahawMedicineApp.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.1p93gcv9fh.js": "sha256-1UPiprzN3JhPftx3be7XEMaYlUN+chRF41CuttiWVtQ="
@@ -223,6 +224,7 @@
       "System.Private.CoreLib.gdne0axslz.wasm": "sha256-1OU1YKgOeX1+SJh4arMvQthG0Pk1cugP2GYSbyEBt08="
     },
     "assembly": {
+      "FluentValidation.fvee6lf8f0.wasm": "sha256-y2wmu0q0yfh4/O0BN8s/ZnPUFizpBUQu6X5SeIQJjnI=",
       "Microsoft.AspNetCore.Authorization.esv38zo127.wasm": "sha256-rvfJ4vWD9REicee49XUtbmMWVdG0gSGCfb9oZFv9gkY=",
       "Microsoft.AspNetCore.Components.cwj0bpb71v.wasm": "sha256-RDzFNwWFeDHfByrpBjtoeDosPx0W+62WnUqQnxj4pzs=",
       "Microsoft.AspNetCore.Components.Forms.aq1ir8e8pl.wasm": "sha256-QtQH0F71sC0xN/8FWFAnruXDnbOacIsCWaGtPYIgPHM=",
@@ -230,19 +232,19 @@
       "Microsoft.AspNetCore.Components.WebAssembly.b0sosqcdpj.wasm": "sha256-y+dm9A6GzSMucTLUWmYqGchCJxlAAIiPswzCO4UVFi0=",
       "Microsoft.AspNetCore.Metadata.oekk764ms4.wasm": "sha256-UKMDNOwtUqoY3t2M8WJf117cqjUiC8nYYosFnpq5OEQ=",
       "Microsoft.Extensions.Configuration.jnmou9j50n.wasm": "sha256-r5rDX297wnZIRTez4Qs6sHJnEeYHF6hst+lzA1aqXL4=",
-      "Microsoft.Extensions.Configuration.Abstractions.kw6zdn2hre.wasm": "sha256-tFbO+EOloOcq9CVfgaBS5UXQGiGDqw7EHCzyYnzLLUU=",
+      "Microsoft.Extensions.Configuration.Abstractions.4a55sodx0u.wasm": "sha256-BEoNVhAV4i+G5YAqzbai+OF7uVR5hrtn9oAcEMclubM=",
       "Microsoft.Extensions.Configuration.Binder.2k9gr7miv3.wasm": "sha256-YusQfamnuoA29PdQga09PqG/YJjy3OiEdkJsX0j4Ik4=",
       "Microsoft.Extensions.Configuration.FileExtensions.w11q1ch9mx.wasm": "sha256-LNfpv2mp9iLubYbOanMsxfLMDF/r7dZx3+3uw9Nry4Y=",
       "Microsoft.Extensions.Configuration.Json.l87hutdh9l.wasm": "sha256-Gz/79hPuSyKY6a5aSVaMAe5dsL1kdUy+3H1STPOapgM=",
-      "Microsoft.Extensions.DependencyInjection.b4d8qm7pau.wasm": "sha256-lemV4Or052KZxgSAj3apn5nNQywSyUWl+2Fan98Bl+4=",
-      "Microsoft.Extensions.DependencyInjection.Abstractions.auqecwqpl6.wasm": "sha256-npQU9Z8aEiXs0oV0uIqqHDN/aChnciTYfWzbp9IfY/w=",
+      "Microsoft.Extensions.DependencyInjection.w6rb25gv28.wasm": "sha256-aJQNxSp9O/JQiS3YK/5aopK8Gx9JG4QRdv1gS5yxrqs=",
+      "Microsoft.Extensions.DependencyInjection.Abstractions.uyeezc5cxb.wasm": "sha256-urlRDIzsnt6SigwpgMw9kwiWTkp9fNKE637lqK2uueI=",
       "Microsoft.Extensions.FileProviders.Abstractions.1308i1c1g1.wasm": "sha256-bah0Nrrn3e58rFiSLwDvsBfKe36QdSXmzCEgTpT21KU=",
       "Microsoft.Extensions.FileProviders.Physical.2k5v83m7ze.wasm": "sha256-4kGt4NlVuOka96VH9u6FYRLyx4d5JA7tQ4Zyu33wYVs=",
       "Microsoft.Extensions.FileSystemGlobbing.og5ud5mohu.wasm": "sha256-2MfNyn9lDk+FqKsWlv9LMlI3a6UAKU7zn6FPndY6yek=",
-      "Microsoft.Extensions.Logging.96umgmlbmk.wasm": "sha256-QXqjRpmXblZV5MMeJZFa3Mu4tE3kl+4rj0IQLUagaqk=",
-      "Microsoft.Extensions.Logging.Abstractions.l8y69abh7s.wasm": "sha256-KwwLdtp/WV66kdUDadHqq/t2a1K37aZTZfQ9dXMZHwI=",
-      "Microsoft.Extensions.Options.83qdyvwc4v.wasm": "sha256-rPwXGCJV2b2qbHrWMZjOHUDtmkMjf5M9ecjgbq3vlCc=",
-      "Microsoft.Extensions.Primitives.j8wpr8jzql.wasm": "sha256-c3q6DqetjnVCASwVQf1HEJPSXiGtOzmzRbNsXrQRnpw=",
+      "Microsoft.Extensions.Logging.95bgqrnv72.wasm": "sha256-bXI40g7FV9Auzp7Gkf/qaOpV57AB9LC/77YgdkBPY6Y=",
+      "Microsoft.Extensions.Logging.Abstractions.r95vt1inlr.wasm": "sha256-kRIQ4HhyW0v7+i6zYTjl+BrSzIVS5rdciOLbrEa7+40=",
+      "Microsoft.Extensions.Options.i5at4ga9io.wasm": "sha256-pnyeMavDPmoZSrcbVUR5oTMXXyZmckP6mmbo05pyQCg=",
+      "Microsoft.Extensions.Primitives.bq6k0v7oj5.wasm": "sha256-7VRR3wAuBLbJ6+oanznv5mQCqqMwXDYhYFvtXciSZBU=",
       "Microsoft.JSInterop.0h2vlrw1wc.wasm": "sha256-RN8viNNg/Osljyrz0SoRUK6TTBv6eYU4nxc2iJ8mgZA=",
       "Microsoft.JSInterop.WebAssembly.vzj7d1zf5j.wasm": "sha256-+yETq3HNwmgPEHJePavXqUT5HcOeuur5PgP7H5vXEa4=",
       "Microsoft.CSharp.qzjvm9hz38.wasm": "sha256-9uB/7IFSiKE1yWAQ/EFaS3ub/zf5RJXVK6CMmA7mxhY=",
@@ -412,10 +414,10 @@
       "WindowsBase.ag32297siy.wasm": "sha256-BgyZxTgdU9rIYlNC9ZMiMjnvBAJSL0eQH8Y87o1M+q4=",
       "mscorlib.vt9pwshhot.wasm": "sha256-/aFxOaPc1iTNlJw0z4/RGEMD0nzl4qVE3SF4wMsLgp0=",
       "netstandard.or41gtprh3.wasm": "sha256-nD1KqAI5YYz+YohqHaZ5EmXi7Eq9Uy9sUknnI8sj1AM=",
-      "MahawMedicineApp.hruo311nyz.wasm": "sha256-Q/exO2g/KJORRCgjyixMiApJKr0FhPGnFhVE884ST70="
+      "MahawMedicineApp.kvbdgndhac.wasm": "sha256-YFkIhLXdAsUtLeimZveIlacLFwJckgXNtuRBVKrv9HA="
     },
     "pdb": {
-      "MahawMedicineApp.iz7t0ywhyu.pdb": "sha256-rtWM4XjdFVMqscN7awGa4aT7xHdd+p0MzlqHqpJn48M="
+      "MahawMedicineApp.fcar7owwru.pdb": "sha256-HzSzq3C8+QVscQ4yyiDhZMNdStUOCk7twpTpq2eRr8Q="
     }
   },
   "cacheBootResources": true,

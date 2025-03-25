@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3qycZS0ZpLE=",
+  "dgSpecHash": "Pmq5tmrPF8k=",
   "success": true,
   "projectFilePath": "D:\\repos\\Mahaw\\MahawMedicineApp\\MahawMedicineApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.2\\microsoft.aspnetcore.authorization.9.0.2.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.2\\microsoft.aspnetcore.components.9.0.2.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\9.0.2\\microsoft.aspnetcore.components.analyzers.9.0.2.nupkg.sha512",

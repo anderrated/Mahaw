@@ -1,3 +1,6 @@
+@using System.ComponentModel.DataAnnotations;
+@using FluentValidation;
+
 @page "/register"
 @inject NavigationManager Navigation
 @inject HttpClient Http
@@ -11,7 +14,8 @@
 
 <EditForm Model="signUpModel" OnValidSubmit="HandleSignUp">
     <DataAnnotationsValidator />
-
+    <ValidationSummary />
+    
     <div>
         <label>Email</label>
         <InputText @bind-Value="signUpModel.Email" />
@@ -51,14 +55,25 @@
         }
         catch (Exception ex)
         {
+            Console.WriteLine(ex.Message); // Log the error for debugging
             errorMessage = "An error occurred. Please try again.";
         }
     }
 
-    private class SignUpModel
+    public class SignUpModel
     {
+        [Required]
+        [EmailAddress]
         public string Email { get; set; } = string.Empty;
+        
+        [Required]
+        [MinLength(8, ErrorMessage = "Password must be at least 8 characters long.")]
+        [RegularExpression(@"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).+$", 
+        ErrorMessage = "Password must contain at least one uppercase letter, one lowercase letter, and one number.")]
         public string Password { get; set; } = string.Empty;
+        
+        [Required]
+        [Compare(nameof(Password), ErrorMessage = "Passwords do not match.")]
         public string ConfirmPassword { get; set; } = string.Empty;
     }
 }
