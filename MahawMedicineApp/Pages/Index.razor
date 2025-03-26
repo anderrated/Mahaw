@@ -1,5 +1,6 @@
 @page "/"
 @using MahawMedicineApp.Shared
+@inject NavigationManager Navigation
 
 <PageTitle>MAHAW - Stay Informed. Stay Healthy.</PageTitle>
 
@@ -11,8 +12,8 @@
         </div>
 
         <div class="user-log">
-            <button>Register</button>
-            <button>Sign In</button>
+            <button @onclick="GoToRegister">Register</button>
+            <button @onclick="GoToLogin">Sign In</button> <!-- Fixed event binding -->
         </div>
     </div>
     <div class="mahaw-line">
@@ -27,5 +28,16 @@
             <AZSearch />
         </div>
     </div> 
-
 </div>
+
+@code {
+    private void GoToLogin()
+    {
+        Navigation.NavigateTo("/login"); // Redirect to login page
+    }
+
+    private void GoToRegister()
+    {
+        Navigation.NavigateTo("/register"); // Redirect to login page
+    }
+}

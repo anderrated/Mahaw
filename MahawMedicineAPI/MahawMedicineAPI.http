@@ -1,0 +1,6 @@
+@MahawMedicineAPI_HostAddress = http://localhost:5114
+
+GET {{MahawMedicineAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
