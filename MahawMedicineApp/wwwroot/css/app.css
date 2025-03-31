@@ -27,6 +27,10 @@ body {
     padding: 10px;
 }
 
+.page .sidebar .logo img{
+    width: 250px;
+}
+
 .main-content {
     margin-left: 250px;
     padding: 20px;
@@ -87,6 +91,38 @@ body {
     font-size: 4rem;
 }
 
+
+.hero-section .search-container button {
+   background-color: var(--ternary-color);
+   border: none;
+   border-radius: 50px;
+   padding: 0.5rem;
+   padding-left: 0.75rem;
+   padding-right: 0.75rem;
+   transition: background 0.5s;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1)
+}
+
+.hero-section .search-container button:hover {
+    background: linear-gradient(90deg, #feee9c, #ecc674, #8cc195, #e9f2f7);
+    background-size: 200%;
+}
+
+.hero-section .user-log button {
+    background-color: var(--primary-color);
+    border: none;
+    border-radius: 50px;
+    padding: 0.5rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    transition: background 0.5s;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1)
+}
+
+.hero-section .user-log button:hover {
+    background: linear-gradient(90deg, #a9da9b, #ecc674, #ffffff, #e0ffd6);
+    background-size: 200%;
+}
 /* A-Z Search*/
 
 .grid {
