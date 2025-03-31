@@ -1,0 +1,81 @@
+@namespace MahawMedicineApp.Shared
+
+@code {
+    // Sample data for the cards
+    private List<Card> CardData = new List<Card>{
+new Card { Title = "Drugs & Medications", ImageUrl = "/images/pills.png" },
+new Card { Title = "Medication Registry", ImageUrl = "/images/mi.png" },
+new Card { Title = "Interaction Checker", ImageUrl = "/images/di.png" },
+new Card { Title = "Health Tips/Articles", ImageUrl = "/images/oh.png" },
+new Card { Title = "Medicine Reminder", ImageUrl = "/images/mr.png" }
+};
+
+    public class Card
+    {
+        public string Title { get; set; }
+        public string ImageUrl { get; set; }
+    }
+
+}
+
+<div class="slider-container">
+    <div class="slider">
+        @for (int i = 0; i < 5; i++)
+        {
+            <div class="card">
+                <img src="@CardData[i].ImageUrl" class="card-image" />
+                <h6 class="card-title">@CardData[i].Title</h6>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    .slider-container {
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(to bottom, #FFFFFF 0%, #ffea95 100%);
+    }
+
+    .slider {
+        display: flex;
+        transition: transform 0.5s ease-in-out;
+        width: 100%;
+        justify-content: space-around;
+    }
+
+    .slider-container {
+        position: relative;
+    }
+
+    .card {
+        background-color: transparent;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: none;
+        margin-bottom: 10px;
+        transition: transform 0.3s ease-in-out;
+        cursor: pointer;
+    }
+    }
+
+    .card-image {
+        width: 80px;
+        height: 80px;
+        background-color: transparent;
+    }
+
+    .card-title {
+        margin-top: 10px;
+        font-size: 16px;
+        color: #333;
+        background-color: transparent;
+    }
+</style>

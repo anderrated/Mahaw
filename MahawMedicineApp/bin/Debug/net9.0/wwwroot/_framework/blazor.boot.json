@@ -1,7 +1,11 @@
 {
   "mainAssemblyName": "MahawMedicineApp",
   "resources": {
+<<<<<<< HEAD
     "hash": "sha256-qkozG9daKX/PYkPczHhMcSEIht55e7dCwLkFtwCZpv8=",
+=======
+    "hash": "sha256-mNbUYYB+3c7UrZoMWnNSkJquzKj+nc0auRdQmtC/zbk=",
+>>>>>>> 64e8c63377bf4ea565c8d976a3b5ea8d268f374d
     "fingerprinting": {
       "FluentValidation.fvee6lf8f0.wasm": "FluentValidation.wasm",
       "Microsoft.AspNetCore.Authorization.esv38zo127.wasm": "Microsoft.AspNetCore.Authorization.wasm",
@@ -196,23 +200,28 @@
       "netstandard.or41gtprh3.wasm": "netstandard.wasm",
       "System.Private.CoreLib.gdne0axslz.wasm": "System.Private.CoreLib.wasm",
       "dotnet.js": "dotnet.js",
-      "dotnet.native.8bti36lthm.js": "dotnet.native.js",
-      "dotnet.native.tr0cyonrwt.wasm": "dotnet.native.wasm",
-      "dotnet.runtime.tsg4gsv2hg.js": "dotnet.runtime.js",
+      "dotnet.native.1p93gcv9fh.js": "dotnet.native.js",
+      "dotnet.native.9msu8ucn2h.wasm": "dotnet.native.wasm",
+      "dotnet.runtime.qrl1fuqt3c.js": "dotnet.runtime.js",
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
+<<<<<<< HEAD
       "MahawMedicineApp.sqia2eqy8x.wasm": "MahawMedicineApp.wasm",
       "MahawMedicineApp.voi3gznxy3.pdb": "MahawMedicineApp.pdb"
+=======
+      "MahawMedicineApp.5bbmmoiv28.wasm": "MahawMedicineApp.wasm",
+      "MahawMedicineApp.3tnktjtezm.pdb": "MahawMedicineApp.pdb"
+>>>>>>> 64e8c63377bf4ea565c8d976a3b5ea8d268f374d
     },
     "jsModuleNative": {
-      "dotnet.native.8bti36lthm.js": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE="
+      "dotnet.native.1p93gcv9fh.js": "sha256-1UPiprzN3JhPftx3be7XEMaYlUN+chRF41CuttiWVtQ="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.tsg4gsv2hg.js": "sha256-82FoDmY+LsehdN2u8aSGEutGEKXJHcYaSX/3zptbsCw="
+      "dotnet.runtime.qrl1fuqt3c.js": "sha256-ilTXrnUF4HKbIAFVIYlRmX3ryKNZpGUObkWMF0n2Kcg="
     },
     "wasmNative": {
-      "dotnet.native.tr0cyonrwt.wasm": "sha256-F3/BArijJUydqmwcdWeW3LYyYHBRSu2+pyy8GL1jTV0="
+      "dotnet.native.9msu8ucn2h.wasm": "sha256-Yaw09m1FVxsROJ5Sa9f6SmuJebQT0b3hrKQIbo6qm5A="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -414,10 +423,17 @@
       "WindowsBase.ag32297siy.wasm": "sha256-BgyZxTgdU9rIYlNC9ZMiMjnvBAJSL0eQH8Y87o1M+q4=",
       "mscorlib.vt9pwshhot.wasm": "sha256-/aFxOaPc1iTNlJw0z4/RGEMD0nzl4qVE3SF4wMsLgp0=",
       "netstandard.or41gtprh3.wasm": "sha256-nD1KqAI5YYz+YohqHaZ5EmXi7Eq9Uy9sUknnI8sj1AM=",
+<<<<<<< HEAD
       "MahawMedicineApp.sqia2eqy8x.wasm": "sha256-nChIMgsh32uXHJ7OreWlEIKF0sdzmQq++6NTNGjvdV0="
     },
     "pdb": {
       "MahawMedicineApp.voi3gznxy3.pdb": "sha256-oVIAB+AjDhDTmbuvKK0NxSplB9+gEMJDp288KPiJTWY="
+=======
+      "MahawMedicineApp.5bbmmoiv28.wasm": "sha256-wfgdHfKcK/tf1g+gjQWu0YfB2eLO3anHwEoHKaDWTnk="
+    },
+    "pdb": {
+      "MahawMedicineApp.3tnktjtezm.pdb": "sha256-eZFoYR9Mvobwl4XLHGYMYUE8paWMpOYToQVEI8UyUx8="
+>>>>>>> 64e8c63377bf4ea565c8d976a3b5ea8d268f374d
     }
   },
   "cacheBootResources": true,
