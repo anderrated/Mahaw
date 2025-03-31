@@ -69,6 +69,7 @@ body {
 
 .hero-section .heading-container .search-container {
     flex-grow: 8;
+    margin: 2rem;
 }
 
 .hero-section .heading-container .search-container .search-input {
@@ -116,7 +117,12 @@ body {
     padding-left: 0.75rem;
     padding-right: 0.75rem;
     transition: background 0.5s;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1)
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+    margin-top: 2rem;
+}
+
+.hero-section .user-log button:nth-child(2) {
+    margin-right: 2rem;
 }
 
 .hero-section .user-log button:hover {
@@ -162,5 +168,28 @@ h3, h4 {
     width: 95%;
 }
 
+h2 {
+    margin: 1rem;
+}
+
+.articles {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.articles .item p{
+    z-index: 2;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+}
+
+.item img {
+    width: 375px;
+}
 
 

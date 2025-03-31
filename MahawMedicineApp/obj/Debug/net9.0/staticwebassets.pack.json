@@ -1,268 +1,271 @@
 {
   "Files": [
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/bin/Debug/net9.0/wwwroot/_framework/blazor.webassembly.js",
-      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/obj/Debug/net9.0/scopedcss/bundle/MahawMedicineApp.styles.css",
-      "PackagePath": "staticwebassets/MahawMedicineApp.styles.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MahawMedicineApp.styles.css",
+      "PackagePath": "staticwebassets\\MahawMedicineApp.styles.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/appsettings.json",
-      "PackagePath": "staticwebassets/appsettings.json"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/css/app.css",
-      "PackagePath": "staticwebassets/css/app.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/favicon.png",
-      "PackagePath": "staticwebassets/favicon.png"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/icon-192.png",
-      "PackagePath": "staticwebassets/icon-192.png"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/images/di.png",
-      "PackagePath": "staticwebassets/images/di.png"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\images\\di.png",
+      "PackagePath": "staticwebassets\\images\\di.png"
     },
     {
-<<<<<<< HEAD
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\images\\doctors.png",
+      "PackagePath": "staticwebassets\\images\\doctors.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\images\\library.png",
+      "PackagePath": "staticwebassets\\images\\library.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\images\\medicines.png",
       "PackagePath": "staticwebassets\\images\\medicines.png"
     },
     {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\images\\mi.png",
+      "PackagePath": "staticwebassets\\images\\mi.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\images\\mr.png",
+      "PackagePath": "staticwebassets\\images\\mr.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\images\\oh.png",
+      "PackagePath": "staticwebassets\\images\\oh.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\images\\orange.png",
+      "PackagePath": "staticwebassets\\images\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\images\\pills.png",
+      "PackagePath": "staticwebassets\\images\\pills.png"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
-=======
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/images/logo.png",
-      "PackagePath": "staticwebassets/images/logo.png"
->>>>>>> 64e8c63377bf4ea565c8d976a3b5ea8d268f374d
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/images/medicines.png",
-      "PackagePath": "staticwebassets/images/medicines.png"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/images/mi.png",
-      "PackagePath": "staticwebassets/images/mi.png"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/images/mr.png",
-      "PackagePath": "staticwebassets/images/mr.png"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/images/oh.png",
-      "PackagePath": "staticwebassets/images/oh.png"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/images/pills.png",
-      "PackagePath": "staticwebassets/images/pills.png"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/index.html",
-      "PackagePath": "staticwebassets/index.html"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
-    },
-    {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
-    },
-    {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
-    },
-    {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
-    },
-    {
-      "Id": "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/wwwroot/sample-data/weather.json",
-      "PackagePath": "staticwebassets/sample-data/weather.json"
-    },
-    {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.MahawMedicineApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MahawMedicineApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.MahawMedicineApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MahawMedicineApp.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.MahawMedicineApp.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MahawMedicineApp.props",
       "PackagePath": "build\\MahawMedicineApp.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.MahawMedicineApp.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MahawMedicineApp.props",
       "PackagePath": "buildMultiTargeting\\MahawMedicineApp.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.MahawMedicineApp.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MahawMedicineApp.props",
       "PackagePath": "buildTransitive\\MahawMedicineApp.props"
     }
   ],

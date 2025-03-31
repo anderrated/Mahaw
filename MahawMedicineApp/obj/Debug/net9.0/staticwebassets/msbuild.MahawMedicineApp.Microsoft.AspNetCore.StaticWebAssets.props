@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>WasmResource</AssetTraitName>
       <AssetTraitValue>settings</AssetTraitValue>
-      <Fingerprint>vm2nkd0fr6</Fingerprint>
-      <Integrity>FxWUGprXwUtVGgP0zIy0rVeGOZt5BQMBHTAYkDuw+oo=</Integrity>
+      <Fingerprint>fibplaa16t</Fingerprint>
+      <Integrity>eXw6VkSlV/qVv1P/owj27e8lcojcGLKXPGvN576ELdk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\appsettings.json'))</OriginalItemSpec>
@@ -30,13 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-<<<<<<< HEAD
-      <Fingerprint>zskq0ummmc</Fingerprint>
-      <Integrity>LfwCtrqANgTEwH0pfeSQlgUmDG0gpp5Qs/B2NvCpaJc=</Integrity>
-=======
-      <Fingerprint>a3nwjod2dt</Fingerprint>
-      <Integrity>5t/+YGDHoOd4bMNRH+JqMxjm8ap+DEiPADDDWXNlBZs=</Integrity>
->>>>>>> 64e8c63377bf4ea565c8d976a3b5ea8d268f374d
+      <Fingerprint>4weildjn8w</Fingerprint>
+      <Integrity>5JRP9ksAvvQ8j+Fqpkh30b04T5+uGIIscqoDFn0RQrE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
@@ -95,6 +90,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\di.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\doctors.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MahawMedicineApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>/</BasePath>
+      <RelativePath>images/doctors.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zl70xxwoj5</Fingerprint>
+      <Integrity>hwvcp4X+fNtl9NLcxtliTbFW0dJG/DtluZH/stcj/AQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\doctors.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\library.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MahawMedicineApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>/</BasePath>
+      <RelativePath>images/library.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rxwjbgcwa9</Fingerprint>
+      <Integrity>fxjdkXGPPnV6f4IhhUaCb3ACw36E2Jt9OILaYEc9tGA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\library.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\logo.png'))">
       <SourceType>Package</SourceType>
       <SourceId>MahawMedicineApp</SourceId>
@@ -131,8 +162,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\medicines.png'))</OriginalItemSpec>
     </StaticWebAsset>
-<<<<<<< HEAD
-=======
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mi.png'))">
       <SourceType>Package</SourceType>
       <SourceId>MahawMedicineApp</SourceId>
@@ -187,6 +216,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\oh.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\orange.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MahawMedicineApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>/</BasePath>
+      <RelativePath>images/orange.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>tj7qf654hp</Fingerprint>
+      <Integrity>R8BTscf3uXXSlcSBQpF5lzUjBjQD1cGem7aW0GRb0MA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\orange.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pills.png'))">
       <SourceType>Package</SourceType>
       <SourceId>MahawMedicineApp</SourceId>
@@ -205,7 +252,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\pills.png'))</OriginalItemSpec>
     </StaticWebAsset>
->>>>>>> 64e8c63377bf4ea565c8d976a3b5ea8d268f374d
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))">
       <SourceType>Package</SourceType>
       <SourceId>MahawMedicineApp</SourceId>
@@ -218,8 +264,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>920wyjbq4e</Fingerprint>
-      <Integrity>UYas5f5eSkJXhtXB9p157ForUE63dx5U9wpikmSvS+A=</Integrity>
+      <Fingerprint>ky5jv5lz5c</Fingerprint>
+      <Integrity>FJjO7IJKmoDkKsh0FRXWv3ZxAtorCcydjj1G58W04hM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
@@ -1028,8 +1074,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>cq1z0bb24w</Fingerprint>
-      <Integrity>hC/kygmHXhBGuITad8UXzQOACi7MyYQWPxhPBGP6JCw=</Integrity>
+      <Fingerprint>91ewe3jwrf</Fingerprint>
+      <Integrity>8waFkah6rX6mFLn2hXVqcJ6qGtLvA99SC9sn16QD0Zo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MahawMedicineApp.styles.css'))</OriginalItemSpec>
@@ -1046,8 +1092,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vnc9dmv67p</Fingerprint>
-      <Integrity>paIeuWnSzjeLGITWkk4p3rcejUsZWCJGPeOK9UhWXtg=</Integrity>
+      <Fingerprint>iag0ou56lh</Fingerprint>
+      <Integrity>enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sample-data\weather.json'))</OriginalItemSpec>
