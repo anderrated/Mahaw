@@ -1,0 +1,67 @@
+@namespace MahawMedicineApp.Shared
+
+@code {
+    // Sample data for the cards
+    private List<Card> CardData = new List<Card>{
+new Card { Title = "Drugs & Medications", ImageUrl = "https://via.placeholder.com/150" },
+new Card { Title = "Medication Registry", ImageUrl = "https://via.placeholder.com/150" },
+new Card { Title = "Interaction Checker", ImageUrl = "https://via.placeholder.com/150" },
+new Card { Title = "Health Tips/Articles", ImageUrl = "https://via.placeholder.com/150" },
+new Card { Title = "Medicine Reminder", ImageUrl = "https://via.placeholder.com/150" }
+};
+
+    public class Card
+    {
+        public string Title { get; set; }
+        public string ImageUrl { get; set; }
+    }
+
+}
+
+<div class="slider-container">
+    <div class="slider">
+        @for (int i = 0; i < 5; i++)
+        {
+            <div>
+                <img src="@CardData[i].ImageUrl" alt="@CardData[i].Title" class="card-image" />
+                <h6 class="card-title">@CardData[i].Title</h6>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    .slider-container {
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(to bottom, #FFFFFF 0%, #ffea95 100%);
+    }
+
+    .slider {
+        display: flex;
+        transition: transform 0.5s ease-in-out;
+        width: 100%;
+        justify-content: space-around;
+    }
+
+    .slider-container {
+        position: relative;
+    }
+
+    .card-image {
+        width: 100%;
+        background-color: transparent;
+    }
+
+    .card-title {
+        margin-top: 10px;
+        font-size: 16px;
+        color: #333;
+        background-color: transparent;
+    }
+</style>

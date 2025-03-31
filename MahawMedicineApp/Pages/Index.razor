@@ -22,12 +22,13 @@
             <h1>STAY HEALTHY.</h1>
             <p>Find accurate information on thousands of medicines, including usage, side effects, and precautions.</p>
         </div>
-        
+
         <div class="drug-search">
             <h3>A-Z Drug Search</h3>
             <AZSearch />
         </div>
-    </div> 
+    </div>
+    <InteractiveSlider />
 </div>
 
 @code {
@@ -41,3 +42,9 @@
         Navigation.NavigateTo("/register"); // Redirect to login page
     }
 }
+
+<style>
+    .hero-section {
+        padding: 0;
+    }
+</style>
