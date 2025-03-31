@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/bing/capstone-med/Mahaw/MahawMedicineApp/MahawMedicineApp.csproj": {}
   },
   "projects": {
@@ -15,12 +16,31 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bing/.nuget/NuGet/NuGet.Config"
+=======
+    "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\MahawMedicineApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\MahawMedicineApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\MahawMedicineApp.csproj",
+        "projectName": "MahawMedicineApp",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\MahawMedicineApp.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> main
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+<<<<<<< HEAD
           "/opt/homebrew/Cellar/dotnet/9.0.3/libexec/library-packs": {},
+=======
+>>>>>>> main
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,13 +81,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.3, )",
+              "version": "[9.0.2, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.3, )",
+              "version": "[9.0.2, )",
               "autoReferenced": true
             }
           },
@@ -85,7 +105,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[9.0.3, 9.0.3]"
+              "version": "[9.0.2, 9.0.2]"
             }
           ],
           "frameworkReferences": {
@@ -93,7 +113,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.3/libexec/sdk/9.0.104/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+>>>>>>> main
         }
       },
       "runtimes": {
