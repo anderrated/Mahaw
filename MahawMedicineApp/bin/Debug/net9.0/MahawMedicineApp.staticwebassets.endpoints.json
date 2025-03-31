@@ -599,8 +599,8 @@
       ]
     },
     {
-      "Route": "_framework/MahawMedicineApp.1bwxta80iu.pdb",
-      "AssetFile": "_framework/MahawMedicineApp.1bwxta80iu.pdb",
+      "Route": "_framework/MahawMedicineApp.pdb",
+      "AssetFile": "_framework/MahawMedicineApp.voi3gznxy3.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -609,11 +609,11 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
-          "Value": "29432"
+          "Value": "29484"
         },
         {
           "Name": "Content-Type",
@@ -621,36 +621,173 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zUZMxaQduSpK5+pxjaSFsE36ciS3/rPAsvhyI++gSvo=\""
+          "Value": "\"oVIAB+AjDhDTmbuvKK0NxSplB9+gEMJDp288KPiJTWY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:40:54 GMT"
+          "Value": "Mon, 31 Mar 2025 15:53:08 GMT"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "1bwxta80iu"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-zUZMxaQduSpK5+pxjaSFsE36ciS3/rPAsvhyI++gSvo="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MahawMedicineApp.pdb"
+          "Value": "sha256-oVIAB+AjDhDTmbuvKK0NxSplB9+gEMJDp288KPiJTWY="
         }
       ]
     },
     {
-      "Route": "_framework/MahawMedicineApp.1bwxta80iu.pdb",
-      "AssetFile": "_framework/MahawMedicineApp.1bwxta80iu.pdb.gz",
+      "Route": "_framework/MahawMedicineApp.pdb",
+      "AssetFile": "_framework/MahawMedicineApp.voi3gznxy3.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000044966051"
+          "Quality": "0.000044865180"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b6pXmLcZpuacaBPblVL+wuo0x+vfrlf/nkacgF4LiMs=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oVIAB+AjDhDTmbuvKK0NxSplB9+gEMJDp288KPiJTWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 15:53:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oVIAB+AjDhDTmbuvKK0NxSplB9+gEMJDp288KPiJTWY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MahawMedicineApp.pdb.gz",
+      "AssetFile": "_framework/MahawMedicineApp.voi3gznxy3.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b6pXmLcZpuacaBPblVL+wuo0x+vfrlf/nkacgF4LiMs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 15:53:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b6pXmLcZpuacaBPblVL+wuo0x+vfrlf/nkacgF4LiMs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MahawMedicineApp.sqia2eqy8x.wasm",
+      "AssetFile": "_framework/MahawMedicineApp.sqia2eqy8x.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nChIMgsh32uXHJ7OreWlEIKF0sdzmQq++6NTNGjvdV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 15:53:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sqia2eqy8x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nChIMgsh32uXHJ7OreWlEIKF0sdzmQq++6NTNGjvdV0="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MahawMedicineApp.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MahawMedicineApp.sqia2eqy8x.wasm",
+      "AssetFile": "_framework/MahawMedicineApp.sqia2eqy8x.wasm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000082562748"
         }
       ],
       "ResponseHeaders": [
@@ -668,23 +805,23 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22238"
+          "Value": "12111"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/octet-stream"
+          "Value": "application/wasm"
         },
         {
           "Name": "ETag",
-          "Value": "\"PyfuVR0lxurqZ8r/WRBEQhPUkFF+UCRgR9qJ4MITNck=\""
+          "Value": "\"TI08uL1fXEPwjUWoWFyafVmJwY0pZUemyAf5eCOK+l4=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zUZMxaQduSpK5+pxjaSFsE36ciS3/rPAsvhyI++gSvo=\""
+          "Value": "W/\"nChIMgsh32uXHJ7OreWlEIKF0sdzmQq++6NTNGjvdV0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:40:58 GMT"
+          "Value": "Mon, 31 Mar 2025 15:53:10 GMT"
         },
         {
           "Name": "Vary",
@@ -694,21 +831,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1bwxta80iu"
+          "Value": "sqia2eqy8x"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zUZMxaQduSpK5+pxjaSFsE36ciS3/rPAsvhyI++gSvo="
+          "Value": "sha256-nChIMgsh32uXHJ7OreWlEIKF0sdzmQq++6NTNGjvdV0="
         },
         {
           "Name": "label",
-          "Value": "_framework/MahawMedicineApp.pdb"
+          "Value": "_framework/MahawMedicineApp.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/MahawMedicineApp.1bwxta80iu.pdb.gz",
-      "AssetFile": "_framework/MahawMedicineApp.1bwxta80iu.pdb.gz",
+      "Route": "_framework/MahawMedicineApp.sqia2eqy8x.wasm.gz",
+      "AssetFile": "_framework/MahawMedicineApp.sqia2eqy8x.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -725,19 +862,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22238"
+          "Value": "12111"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/octet-stream"
+          "Value": "application/wasm"
         },
         {
           "Name": "ETag",
-          "Value": "\"PyfuVR0lxurqZ8r/WRBEQhPUkFF+UCRgR9qJ4MITNck=\""
+          "Value": "\"TI08uL1fXEPwjUWoWFyafVmJwY0pZUemyAf5eCOK+l4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:40:58 GMT"
+          "Value": "Mon, 31 Mar 2025 15:53:10 GMT"
         },
         {
           "Name": "Vary",
@@ -747,11 +884,172 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1bwxta80iu"
+          "Value": "sqia2eqy8x"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PyfuVR0lxurqZ8r/WRBEQhPUkFF+UCRgR9qJ4MITNck="
+          "Value": "sha256-TI08uL1fXEPwjUWoWFyafVmJwY0pZUemyAf5eCOK+l4="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MahawMedicineApp.wasm.gz"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MahawMedicineApp.voi3gznxy3.pdb",
+      "AssetFile": "_framework/MahawMedicineApp.voi3gznxy3.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oVIAB+AjDhDTmbuvKK0NxSplB9+gEMJDp288KPiJTWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 15:53:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "voi3gznxy3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oVIAB+AjDhDTmbuvKK0NxSplB9+gEMJDp288KPiJTWY="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MahawMedicineApp.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MahawMedicineApp.voi3gznxy3.pdb",
+      "AssetFile": "_framework/MahawMedicineApp.voi3gznxy3.pdb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000044865180"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b6pXmLcZpuacaBPblVL+wuo0x+vfrlf/nkacgF4LiMs=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oVIAB+AjDhDTmbuvKK0NxSplB9+gEMJDp288KPiJTWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 15:53:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "voi3gznxy3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oVIAB+AjDhDTmbuvKK0NxSplB9+gEMJDp288KPiJTWY="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MahawMedicineApp.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MahawMedicineApp.voi3gznxy3.pdb.gz",
+      "AssetFile": "_framework/MahawMedicineApp.voi3gznxy3.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b6pXmLcZpuacaBPblVL+wuo0x+vfrlf/nkacgF4LiMs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 15:53:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "voi3gznxy3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b6pXmLcZpuacaBPblVL+wuo0x+vfrlf/nkacgF4LiMs="
         },
         {
           "Name": "label",
@@ -760,145 +1058,8 @@
       ]
     },
     {
-      "Route": "_framework/MahawMedicineApp.pdb",
-      "AssetFile": "_framework/MahawMedicineApp.1bwxta80iu.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29432"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zUZMxaQduSpK5+pxjaSFsE36ciS3/rPAsvhyI++gSvo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:40:54 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zUZMxaQduSpK5+pxjaSFsE36ciS3/rPAsvhyI++gSvo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MahawMedicineApp.pdb",
-      "AssetFile": "_framework/MahawMedicineApp.1bwxta80iu.pdb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000044966051"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22238"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PyfuVR0lxurqZ8r/WRBEQhPUkFF+UCRgR9qJ4MITNck=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"zUZMxaQduSpK5+pxjaSFsE36ciS3/rPAsvhyI++gSvo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:40:58 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zUZMxaQduSpK5+pxjaSFsE36ciS3/rPAsvhyI++gSvo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MahawMedicineApp.pdb.gz",
-      "AssetFile": "_framework/MahawMedicineApp.1bwxta80iu.pdb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22238"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PyfuVR0lxurqZ8r/WRBEQhPUkFF+UCRgR9qJ4MITNck=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:40:58 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PyfuVR0lxurqZ8r/WRBEQhPUkFF+UCRgR9qJ4MITNck="
-        }
-      ]
-    },
-    {
       "Route": "_framework/MahawMedicineApp.wasm",
-      "AssetFile": "_framework/MahawMedicineApp.z1rmxiaqws.wasm",
+      "AssetFile": "_framework/MahawMedicineApp.sqia2eqy8x.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -911,7 +1072,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28949"
+          "Value": "29461"
         },
         {
           "Name": "Content-Type",
@@ -919,28 +1080,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iWRZgHTDJpTLmjtbWp4bDNuBBCdkt/DX/z9Mo1W4SoI=\""
+          "Value": "\"nChIMgsh32uXHJ7OreWlEIKF0sdzmQq++6NTNGjvdV0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:40:55 GMT"
+          "Value": "Mon, 31 Mar 2025 15:53:09 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iWRZgHTDJpTLmjtbWp4bDNuBBCdkt/DX/z9Mo1W4SoI="
+          "Value": "sha256-nChIMgsh32uXHJ7OreWlEIKF0sdzmQq++6NTNGjvdV0="
         }
       ]
     },
     {
       "Route": "_framework/MahawMedicineApp.wasm",
-      "AssetFile": "_framework/MahawMedicineApp.z1rmxiaqws.wasm.gz",
+      "AssetFile": "_framework/MahawMedicineApp.sqia2eqy8x.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000082939371"
+          "Quality": "0.000082562748"
         }
       ],
       "ResponseHeaders": [
@@ -958,7 +1119,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12056"
+          "Value": "12111"
         },
         {
           "Name": "Content-Type",
@@ -966,15 +1127,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SCXvsYmMClp35X4+4pd+nqade45War/uMAX1uE9nINg=\""
+          "Value": "\"TI08uL1fXEPwjUWoWFyafVmJwY0pZUemyAf5eCOK+l4=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"iWRZgHTDJpTLmjtbWp4bDNuBBCdkt/DX/z9Mo1W4SoI=\""
+          "Value": "W/\"nChIMgsh32uXHJ7OreWlEIKF0sdzmQq++6NTNGjvdV0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:40:58 GMT"
+          "Value": "Mon, 31 Mar 2025 15:53:10 GMT"
         },
         {
           "Name": "Vary",
@@ -984,13 +1145,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iWRZgHTDJpTLmjtbWp4bDNuBBCdkt/DX/z9Mo1W4SoI="
+          "Value": "sha256-nChIMgsh32uXHJ7OreWlEIKF0sdzmQq++6NTNGjvdV0="
         }
       ]
     },
     {
       "Route": "_framework/MahawMedicineApp.wasm.gz",
-      "AssetFile": "_framework/MahawMedicineApp.z1rmxiaqws.wasm.gz",
+      "AssetFile": "_framework/MahawMedicineApp.sqia2eqy8x.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1007,7 +1168,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12056"
+          "Value": "12111"
         },
         {
           "Name": "Content-Type",
@@ -1015,11 +1176,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SCXvsYmMClp35X4+4pd+nqade45War/uMAX1uE9nINg=\""
+          "Value": "\"TI08uL1fXEPwjUWoWFyafVmJwY0pZUemyAf5eCOK+l4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:40:58 GMT"
+          "Value": "Mon, 31 Mar 2025 15:53:10 GMT"
         },
         {
           "Name": "Vary",
@@ -1029,168 +1190,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SCXvsYmMClp35X4+4pd+nqade45War/uMAX1uE9nINg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MahawMedicineApp.z1rmxiaqws.wasm",
-      "AssetFile": "_framework/MahawMedicineApp.z1rmxiaqws.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28949"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"iWRZgHTDJpTLmjtbWp4bDNuBBCdkt/DX/z9Mo1W4SoI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:40:55 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z1rmxiaqws"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-iWRZgHTDJpTLmjtbWp4bDNuBBCdkt/DX/z9Mo1W4SoI="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MahawMedicineApp.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MahawMedicineApp.z1rmxiaqws.wasm",
-      "AssetFile": "_framework/MahawMedicineApp.z1rmxiaqws.wasm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000082939371"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12056"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SCXvsYmMClp35X4+4pd+nqade45War/uMAX1uE9nINg=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"iWRZgHTDJpTLmjtbWp4bDNuBBCdkt/DX/z9Mo1W4SoI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:40:58 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z1rmxiaqws"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-iWRZgHTDJpTLmjtbWp4bDNuBBCdkt/DX/z9Mo1W4SoI="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MahawMedicineApp.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MahawMedicineApp.z1rmxiaqws.wasm.gz",
-      "AssetFile": "_framework/MahawMedicineApp.z1rmxiaqws.wasm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12056"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SCXvsYmMClp35X4+4pd+nqade45War/uMAX1uE9nINg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:40:58 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z1rmxiaqws"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SCXvsYmMClp35X4+4pd+nqade45War/uMAX1uE9nINg="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MahawMedicineApp.wasm.gz"
+          "Value": "sha256-TI08uL1fXEPwjUWoWFyafVmJwY0pZUemyAf5eCOK+l4="
         }
       ]
     },
@@ -57539,17 +57539,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"i4wI5npf+Vfv7XofgPDSs5GMx7oUJ4NurTzRWGcttPQ=\""
+          "Value": "\"wb1Ty1+up3iUtWkbHVPxFuyJIPvVPChpCnTuOp5I6QI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:40:58 GMT"
+          "Value": "Mon, 31 Mar 2025 15:53:10 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-i4wI5npf+Vfv7XofgPDSs5GMx7oUJ4NurTzRWGcttPQ="
+          "Value": "sha256-wb1Ty1+up3iUtWkbHVPxFuyJIPvVPChpCnTuOp5I6QI="
         }
       ]
     },
@@ -57560,7 +57560,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080547725"
+          "Quality": "0.000080573685"
         }
       ],
       "ResponseHeaders": [
@@ -57578,7 +57578,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12414"
+          "Value": "12410"
         },
         {
           "Name": "Content-Type",
@@ -57586,15 +57586,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"a2erCZWPZaW0HWI4MmoEycTX7CpQzq26OgspRjg6hIc=\""
+          "Value": "\"QAoHd2Pi0HXbWjyCLqNO3wjukFropCXuLLEnela7/fo=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"i4wI5npf+Vfv7XofgPDSs5GMx7oUJ4NurTzRWGcttPQ=\""
+          "Value": "W/\"wb1Ty1+up3iUtWkbHVPxFuyJIPvVPChpCnTuOp5I6QI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:28:43 GMT"
+          "Value": "Mon, 31 Mar 2025 15:40:58 GMT"
         },
         {
           "Name": "Vary",
@@ -57604,7 +57604,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-i4wI5npf+Vfv7XofgPDSs5GMx7oUJ4NurTzRWGcttPQ="
+          "Value": "sha256-wb1Ty1+up3iUtWkbHVPxFuyJIPvVPChpCnTuOp5I6QI="
         }
       ]
     },
@@ -57627,7 +57627,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12414"
+          "Value": "12410"
         },
         {
           "Name": "Content-Type",
@@ -57635,11 +57635,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"a2erCZWPZaW0HWI4MmoEycTX7CpQzq26OgspRjg6hIc=\""
+          "Value": "\"QAoHd2Pi0HXbWjyCLqNO3wjukFropCXuLLEnela7/fo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:28:43 GMT"
+          "Value": "Mon, 31 Mar 2025 15:40:58 GMT"
         },
         {
           "Name": "Vary",
@@ -57649,7 +57649,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-a2erCZWPZaW0HWI4MmoEycTX7CpQzq26OgspRjg6hIc="
+          "Value": "sha256-QAoHd2Pi0HXbWjyCLqNO3wjukFropCXuLLEnela7/fo="
         }
       ]
     },
@@ -61373,7 +61373,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001055966209"
+          "Quality": "0.001042752868"
         }
       ],
       "ResponseHeaders": [
@@ -61391,7 +61391,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "946"
+          "Value": "958"
         },
         {
           "Name": "Content-Type",
@@ -61399,15 +61399,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ODtVuol32Jv3TxLgAJPgQF0r5JZd4QDjhaI9pmVe+j0=\""
+          "Value": "\"HPo9z3aa7pn5ZwM0eZeLBImBEdqggR9AW8LYHz4uaLk=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dscyVo5a4O/IDQnXwbJHGM6bzReIuMhEsO88MTlbfbo=\""
+          "Value": "W/\"LfwCtrqANgTEwH0pfeSQlgUmDG0gpp5Qs/B2NvCpaJc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:13:42 GMT"
+          "Value": "Mon, 31 Mar 2025 15:44:35 GMT"
         },
         {
           "Name": "Vary",
@@ -61417,7 +61417,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dscyVo5a4O/IDQnXwbJHGM6bzReIuMhEsO88MTlbfbo="
+          "Value": "sha256-LfwCtrqANgTEwH0pfeSQlgUmDG0gpp5Qs/B2NvCpaJc="
         }
       ]
     },
@@ -61436,7 +61436,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3108"
+          "Value": "3159"
         },
         {
           "Name": "Content-Type",
@@ -61444,17 +61444,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dscyVo5a4O/IDQnXwbJHGM6bzReIuMhEsO88MTlbfbo=\""
+          "Value": "\"LfwCtrqANgTEwH0pfeSQlgUmDG0gpp5Qs/B2NvCpaJc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:13:42 GMT"
+          "Value": "Mon, 31 Mar 2025 15:44:35 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dscyVo5a4O/IDQnXwbJHGM6bzReIuMhEsO88MTlbfbo="
+          "Value": "sha256-LfwCtrqANgTEwH0pfeSQlgUmDG0gpp5Qs/B2NvCpaJc="
         }
       ]
     },
@@ -61477,7 +61477,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "946"
+          "Value": "958"
         },
         {
           "Name": "Content-Type",
@@ -61485,11 +61485,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ODtVuol32Jv3TxLgAJPgQF0r5JZd4QDjhaI9pmVe+j0=\""
+          "Value": "\"HPo9z3aa7pn5ZwM0eZeLBImBEdqggR9AW8LYHz4uaLk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:13:42 GMT"
+          "Value": "Mon, 31 Mar 2025 15:44:35 GMT"
         },
         {
           "Name": "Vary",
@@ -61499,18 +61499,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ODtVuol32Jv3TxLgAJPgQF0r5JZd4QDjhaI9pmVe+j0="
+          "Value": "sha256-HPo9z3aa7pn5ZwM0eZeLBImBEdqggR9AW8LYHz4uaLk="
         }
       ]
     },
     {
-      "Route": "css/app.un3giccoe7.css",
+      "Route": "css/app.zskq0ummmc.css",
       "AssetFile": "css/app.css.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001055966209"
+          "Quality": "0.001042752868"
         }
       ],
       "ResponseHeaders": [
@@ -61528,7 +61528,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "946"
+          "Value": "958"
         },
         {
           "Name": "Content-Type",
@@ -61536,15 +61536,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ODtVuol32Jv3TxLgAJPgQF0r5JZd4QDjhaI9pmVe+j0=\""
+          "Value": "\"HPo9z3aa7pn5ZwM0eZeLBImBEdqggR9AW8LYHz4uaLk=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dscyVo5a4O/IDQnXwbJHGM6bzReIuMhEsO88MTlbfbo=\""
+          "Value": "W/\"LfwCtrqANgTEwH0pfeSQlgUmDG0gpp5Qs/B2NvCpaJc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:13:42 GMT"
+          "Value": "Mon, 31 Mar 2025 15:44:35 GMT"
         },
         {
           "Name": "Vary",
@@ -61554,11 +61554,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "un3giccoe7"
+          "Value": "zskq0ummmc"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dscyVo5a4O/IDQnXwbJHGM6bzReIuMhEsO88MTlbfbo="
+          "Value": "sha256-LfwCtrqANgTEwH0pfeSQlgUmDG0gpp5Qs/B2NvCpaJc="
         },
         {
           "Name": "label",
@@ -61567,7 +61567,7 @@
       ]
     },
     {
-      "Route": "css/app.un3giccoe7.css",
+      "Route": "css/app.zskq0ummmc.css",
       "AssetFile": "css/app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -61581,7 +61581,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3108"
+          "Value": "3159"
         },
         {
           "Name": "Content-Type",
@@ -61589,21 +61589,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dscyVo5a4O/IDQnXwbJHGM6bzReIuMhEsO88MTlbfbo=\""
+          "Value": "\"LfwCtrqANgTEwH0pfeSQlgUmDG0gpp5Qs/B2NvCpaJc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:13:42 GMT"
+          "Value": "Mon, 31 Mar 2025 15:44:35 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "un3giccoe7"
+          "Value": "zskq0ummmc"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dscyVo5a4O/IDQnXwbJHGM6bzReIuMhEsO88MTlbfbo="
+          "Value": "sha256-LfwCtrqANgTEwH0pfeSQlgUmDG0gpp5Qs/B2NvCpaJc="
         },
         {
           "Name": "label",
@@ -61612,7 +61612,7 @@
       ]
     },
     {
-      "Route": "css/app.un3giccoe7.css.gz",
+      "Route": "css/app.zskq0ummmc.css.gz",
       "AssetFile": "css/app.css.gz",
       "Selectors": [],
       "ResponseHeaders": [
@@ -61630,7 +61630,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "946"
+          "Value": "958"
         },
         {
           "Name": "Content-Type",
@@ -61638,11 +61638,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ODtVuol32Jv3TxLgAJPgQF0r5JZd4QDjhaI9pmVe+j0=\""
+          "Value": "\"HPo9z3aa7pn5ZwM0eZeLBImBEdqggR9AW8LYHz4uaLk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 15:13:42 GMT"
+          "Value": "Mon, 31 Mar 2025 15:44:35 GMT"
         },
         {
           "Name": "Vary",
@@ -61652,11 +61652,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "un3giccoe7"
+          "Value": "zskq0ummmc"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ODtVuol32Jv3TxLgAJPgQF0r5JZd4QDjhaI9pmVe+j0="
+          "Value": "sha256-HPo9z3aa7pn5ZwM0eZeLBImBEdqggR9AW8LYHz4uaLk="
         },
         {
           "Name": "label",
@@ -61907,6 +61907,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-+XlAKrIOkJ2vLChEmnO0vTPxUSVJ55C0LEG4N3BaprY="
+        }
+      ]
+    },
+    {
+      "Route": "images/medicines.dm2bzy73cp.png",
+      "AssetFile": "images/medicines.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "610932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bd02RcWQOBhT+wLq/EXTIZYvpy/nbZJd6S/1GCJxNWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 15:45:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dm2bzy73cp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bd02RcWQOBhT+wLq/EXTIZYvpy/nbZJd6S/1GCJxNWA="
+        },
+        {
+          "Name": "label",
+          "Value": "images/medicines.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/medicines.png",
+      "AssetFile": "images/medicines.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "610932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bd02RcWQOBhT+wLq/EXTIZYvpy/nbZJd6S/1GCJxNWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 15:45:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bd02RcWQOBhT+wLq/EXTIZYvpy/nbZJd6S/1GCJxNWA="
         }
       ]
     },

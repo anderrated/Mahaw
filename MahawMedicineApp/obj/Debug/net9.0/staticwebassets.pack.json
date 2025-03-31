@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\images\\medicines.png",
+      "PackagePath": "staticwebassets\\images\\medicines.png"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\Desktop\\Mahaw\\MahawMedicineApp\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

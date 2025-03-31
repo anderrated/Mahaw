@@ -153,5 +153,14 @@ h3, h4 {
     text-align: center;
 }
 
+.medicines {
+    background: rgb(255,245,203);
+    background: linear-gradient(0deg, rgba(255,245,203,1) 0%, rgb(255, 255, 255) 100%);
+}
+
+.medicines img {
+    width: 95%;
+}
+
 
 
