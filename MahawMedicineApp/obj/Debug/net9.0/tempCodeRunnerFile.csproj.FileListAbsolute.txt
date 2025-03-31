@@ -1,7 +1,0 @@
-d:\repos\Mahaw\MahawMedicineApp\obj\Debug\net9.0\tempCodeRunnerFile.csproj.AssemblyReference.cache
-d:\repos\Mahaw\MahawMedicineApp\obj\Debug\net9.0\tempCodeRunnerFile.GeneratedMSBuildEditorConfig.editorconfig
-d:\repos\Mahaw\MahawMedicineApp\obj\Debug\net9.0\tempCodeRunnerFile.AssemblyInfoInputs.cache
-d:\repos\Mahaw\MahawMedicineApp\obj\Debug\net9.0\tempCodeRunnerFile.AssemblyInfo.cs
-d:\repos\Mahaw\MahawMedicineApp\obj\Debug\net9.0\tempCodeRunnerFile.csproj.CoreCompileInputs.cache
-d:\repos\Mahaw\MahawMedicineApp\obj\Debug\net9.0\tempCodeRunnerFile.MvcApplicationPartsAssemblyInfo.cache
-d:\repos\Mahaw\MahawMedicineApp\obj\Debug\net9.0\tempCodeRunnerFile.sourcelink.json

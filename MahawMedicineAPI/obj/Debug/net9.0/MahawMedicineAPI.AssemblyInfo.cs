@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MahawMedicineAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+815ebec66c3ec6f3fa8d2c5bc3bf66cce5ce547d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a0d80eccebe6725697e93a54be465519e75c61c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MahawMedicineAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MahawMedicineAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
