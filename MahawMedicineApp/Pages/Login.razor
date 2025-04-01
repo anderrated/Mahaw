@@ -2,28 +2,30 @@
 @inject NavigationManager Navigation
 @inject HttpClient Http
 
-<h3>Login</h3>
+<div class="login-container">
+    <h3>Login</h3>
 
-@if (errorMessage is not null)
-{
-    <p style="color: red">@errorMessage</p>
-}
+    @if (errorMessage is not null)
+    {
+        <p style="color: red">@errorMessage</p>
+    }
 
-<EditForm Model="loginModel" OnValidSubmit="HandleLogin">
-    <DataAnnotationsValidator />
+    <EditForm Model="loginModel" OnValidSubmit="HandleLogin">
+        <DataAnnotationsValidator />
 
-    <div>
-        <label>Email</label>
-        <InputText @bind-Value="loginModel.Email" />
-    </div>
-    
-    <div>
-        <label>Password</label>
-        <InputText @bind-Value="loginModel.Password" Type="password" />
-    </div>
+        <div class="login-input">
+            <InputText class="register-input" @bind-Value="loginModel.Email" 
+            placeholder="Enter email here"/>
+        </div>
+        
+        <div>
+            <InputText class="register-input" @bind-Value="loginModel.Password" Type="password" 
+            placeholder="Enter password here"/>
+        </div>
 
-    <button type="submit">Login</button>
-</EditForm>
+        <button type="submit">Login</button>
+    </EditForm>
+</div>
 
 @code {
     private LoginModel loginModel = new();
@@ -57,3 +59,33 @@
         public string Password { get; set; } = string.Empty;
     }
 }
+
+<style>
+    .login-container {
+        width: 100%;
+    }
+
+    .login-input {
+        font-size: 1.5rem;
+        border-radius: 10px;
+        height: 40px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .register-input {
+        font-size: 1.5rem;
+        border-radius: 10px;
+        height: 40px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .input-icon {
+        width: 20px;
+        height: 20px;
+        margin-left: 10px;
+    }
+
+    
+</style>
